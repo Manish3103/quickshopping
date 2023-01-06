@@ -1,7 +1,7 @@
 <?php
 $server="localhost";
 $user="root";
-$password="manish@3103";
+$password="";
 $database="quickshop";
 $cn=mysqli_connect($server,$user,$password,$database);
 if(!$cn)
